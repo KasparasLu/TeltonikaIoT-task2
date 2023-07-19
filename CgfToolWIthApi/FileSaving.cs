@@ -4,7 +4,7 @@ namespace CgfToolWIthApi
     {
         public static (string, string) Files = ("", "");
 
-        private static string _dataPath = @"C:\Users\iot2\Desktop\data\";
+        private static string _dataPath = @"C:\Users\iot2\Desktop\Praktikos uždaviniai\2 užduotis\CgfToolWIthApi\data\";
         protected internal static string DataPath
         {
             get { return _dataPath; }
