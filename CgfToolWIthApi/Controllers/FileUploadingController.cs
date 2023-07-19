@@ -6,6 +6,7 @@ using System.Reflection.PortableExecutable;
 using System.Text;
 using System.Web;
 using System.IO.Compression;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace CgfToolWIthApi.Controllers
 {
@@ -22,7 +23,7 @@ namespace CgfToolWIthApi.Controllers
                 return BadRequest("No file uploaded.");
             }
             string filePath = file.FileName;
-            if (filePath.Contains(".cfg"))
+            if (Path.GetExtension(filePath) == ".cfg")
             {
                 var UploadFile = new UploadedFiles();
                 UploadFile.setSourcePath(filePath);
@@ -42,7 +43,7 @@ namespace CgfToolWIthApi.Controllers
             }
 
             string filePath = file.FileName;
-            if (filePath.Contains(".cfg"))
+            if (Path.GetExtension(filePath) == ".cfg")
             {
                 var UploadFile = new UploadedFiles();
                 UploadFile.setTargetPath(filePath);
