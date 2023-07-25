@@ -23,7 +23,8 @@ namespace CgfToolWIthApi.Controllers
         public IActionResult resultFilter([FromBody] string resultFilter="For multiple filters provide comma seperation For example:x,y,z(first letter capital)")
         {
             var Filters = new FilterSaving();
-            Filters.setResultFilter(resultFilter);
+            if(resultFilter.Contains("Added") || resultFilter.Contains("Unchanged") || resultFilter.Contains("Removed") || resultFilter.Contains("Modified")) Filters.setResultFilter(resultFilter);
+            else BadRequest("Wrong result values");
             return Ok($"The Result filter {resultFilter} is recorded!");
         }
     }
