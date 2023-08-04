@@ -1,0 +1,12 @@
+C:\Users\iot2\Desktop\PraktikosUzdaviniai\1Uzduotis\Calculations\bin\Debug\net7.0\Calculations.deps.json
+C:\Users\iot2\Desktop\PraktikosUzdaviniai\1Uzduotis\Calculations\bin\Debug\net7.0\Calculations.dll
+C:\Users\iot2\Desktop\PraktikosUzdaviniai\1Uzduotis\Calculations\bin\Debug\net7.0\Calculations.pdb
+C:\Users\iot2\Desktop\PraktikosUzdaviniai\1Uzduotis\Calculations\obj\Debug\net7.0\Calculations.csproj.AssemblyReference.cache
+C:\Users\iot2\Desktop\PraktikosUzdaviniai\1Uzduotis\Calculations\obj\Debug\net7.0\Calculations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iot2\Desktop\PraktikosUzdaviniai\1Uzduotis\Calculations\obj\Debug\net7.0\Calculations.AssemblyInfoInputs.cache
+C:\Users\iot2\Desktop\PraktikosUzdaviniai\1Uzduotis\Calculations\obj\Debug\net7.0\Calculations.AssemblyInfo.cs
+C:\Users\iot2\Desktop\PraktikosUzdaviniai\1Uzduotis\Calculations\obj\Debug\net7.0\Calculations.csproj.CoreCompileInputs.cache
+C:\Users\iot2\Desktop\PraktikosUzdaviniai\1Uzduotis\Calculations\obj\Debug\net7.0\Calculations.dll
+C:\Users\iot2\Desktop\PraktikosUzdaviniai\1Uzduotis\Calculations\obj\Debug\net7.0\refint\Calculations.dll
+C:\Users\iot2\Desktop\PraktikosUzdaviniai\1Uzduotis\Calculations\obj\Debug\net7.0\Calculations.pdb
+C:\Users\iot2\Desktop\PraktikosUzdaviniai\1Uzduotis\Calculations\obj\Debug\net7.0\ref\Calculations.dll
